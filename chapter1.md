@@ -1,38 +1,77 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
-## Sample exercise
+## Insert exercise title here
 
 ```yaml
 type: NormalExercise
-lang: python
-xp: 100
-skills: 2
+
+xp: NaN
+
+key: 9ca511ab78
 ```
 
 
-`@instructions`
 
-`@hint`
 
-`@pre_exercise_code`
-```{python}
 
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+
+xp: NaN
+
+key: 3a1f86744b
 ```
 
-`@sample_code`
-```{python}
 
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+
+xp: NaN
+
+key: 6b9835edc6
 ```
 
-`@solution`
-```{python}
 
-```
 
-`@sct`
-```{python}
 
-```
+
+
+
+
+
+
+
+
+
