@@ -5,7 +5,7 @@ description: >-
 
 
 ---
-## NormalEx
+## daslnkdasl
 
 ```yaml
 type: NormalExercise
@@ -17,10 +17,6 @@ key: 9ca511ab78
 
 
 
-`@instructions`
-
-
-`@hint`
 
 
 
@@ -38,7 +34,7 @@ key: 9ca511ab78
 ```yaml
 type: TabExercise
 
-xp: 
+xp: NaN
 
 key: c599a73c7a
 ```
@@ -62,7 +58,7 @@ key: c599a73c7a
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: NaN
 
 key: 8146d74b64
 ```
@@ -92,7 +88,7 @@ ex 1
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: NaN
 
 key: d67c3e2377
 ```
@@ -122,7 +118,7 @@ ex 2
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: NaN
 
 key: fab9a1ed77
 ```
@@ -134,6 +130,58 @@ ex 3
 
 `@hint`
 
+
+
+
+
+
+
+
+
+
+
+
+---
+## PureMCE
+
+```yaml
+type: PureMultipleChoiceExercise
+
+xp: NaN
+
+key: c855f01903
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## some
+
+```yaml
+type: NormalExercise
+
+xp: NaN
+
+key: 5d2666dae7
+```
+
+
+
+`@instructions`
+
+
+`@hint`
 
 
 
