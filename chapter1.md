@@ -28,6 +28,29 @@ key: 9ca511ab78
 
 
 
+
+---
+## <<<New Exercise>>>
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 37988592a9
+xp: 50
+skills: 2
+```
+
+
+`@possible_answers`
+- [1]
+- 2
+
+`@hint`
+this is a hint
+
+`@feedback`
+- feedbacn ajnc
+- feedback dva
+
 ---
 ## TabEx
 
