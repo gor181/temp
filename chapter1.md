@@ -23,6 +23,33 @@ key: 9ca511ab78
 
 
 
+`@instructions`
+
+
+`@hint`
+
+
+
+
+`@solution`
+```{}
+dasdasdas
+
+
+
+
+
+
+
+
+
+dsadas
+das
+dsa
+das
+dad
+a
+```
 
 
 
@@ -34,22 +61,29 @@ key: 9ca511ab78
 
 ```yaml
 type: PureMultipleChoiceExercise
-key: 37988592a9
+
 xp: 50
 skills: 2
+key: 37988592a9
 ```
+
+
+
+
+`@hint`
+this is a hint
+
+
+
 
 
 `@possible_answers`
 - [1]
 - 2
 
-`@hint`
-this is a hint
 
-`@feedback`
-- feedbacn ajnc
-- feedback dva
+
+
 
 ---
 ## TabEx
@@ -201,10 +235,30 @@ key: 5d2666dae7
 
 
 
-`@instructions`
 
 
-`@hint`
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: NaN
+
+key: 36d434318a
+```
+
+
+
 
 
 
