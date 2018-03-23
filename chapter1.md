@@ -15,24 +15,14 @@ xp: NaN
 key: 9ca511ab78
 ```
 
+dasdsadsa
 
-
-
-
-
-
-
-
-`@instructions`
-
-
-`@hint`
 
 
 
 
 `@solution`
-```{}
+```{undefined}
 dasdasdas
 
 
@@ -81,6 +71,8 @@ this is a hint
 - [1]
 - 2
 
+`@feedbacks`
+sct
 
 
 
@@ -198,6 +190,36 @@ ex 3
 
 
 
+***
+
+
+
+```yaml
+type: NormalExercise
+
+xp: NaN
+
+key: e3ec2533e3
+```
+
+
+
+`@instructions`
+ok seems to be rather ok!
+
+`@hint`
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 ## PureMCE
 
@@ -261,9 +283,139 @@ key: 36d434318a
 
 
 
+`@pre_exercise_code`
+```{undefined}
+1
+```
+`@sample_code`
+```{undefined}
+3
+```
+`@solution`
+```{undefined}
+2
+```
+`@sct`
+```{undefined}
+4
+```
 
 
 
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: NaN
+
+key: 046ca0552e
+```
+
+
+
+
+
+`@pre_exercise_code`
+```{undefined}
+pre
+```
+`@sample_code`
+```{undefined}
+sample
+```
+`@solution`
+```{undefined}
+solution
+```
+`@sct`
+```{undefined}
+sct
+```
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: NaN
+
+key: cd7fe78246
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: NaN
+
+key: 81b1a735da
+```
+
+
+
+
+
+`@pre_exercise_code`
+```{undefined}
+pre1
+```
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: NaN
+
+key: 0ad50b694f
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+
+
+`@solution`
+```{}
+this is a solution and it's working
+```
 
 
 
