@@ -10,7 +10,7 @@ description: >-
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 100
 
 key: 9ca511ab78
 ```
@@ -22,7 +22,7 @@ dasdsadsa
 
 
 `@solution`
-```{undefined}
+```{python}
 dasdasdas
 
 
@@ -83,7 +83,7 @@ sct
 ```yaml
 type: TabExercise
 
-xp: NaN
+xp: 100
 
 key: c599a73c7a
 ```
@@ -107,7 +107,7 @@ key: c599a73c7a
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 25
 
 key: 8146d74b64
 ```
@@ -137,7 +137,7 @@ ex 1
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 25
 
 key: d67c3e2377
 ```
@@ -167,7 +167,7 @@ ex 2
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 25
 
 key: fab9a1ed77
 ```
@@ -197,7 +197,7 @@ ex 3
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 25
 
 key: e3ec2533e3
 ```
@@ -226,7 +226,7 @@ ok seems to be rather ok!
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: NaN
+xp: 50
 
 key: c855f01903
 ```
@@ -250,7 +250,7 @@ key: c855f01903
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 100
 
 key: 5d2666dae7
 ```
@@ -274,7 +274,7 @@ key: 5d2666dae7
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 100
 
 key: 36d434318a
 ```
@@ -284,19 +284,19 @@ key: 36d434318a
 
 
 `@pre_exercise_code`
-```{undefined}
+```{python}
 1
 ```
 `@sample_code`
-```{undefined}
+```{python}
 3
 ```
 `@solution`
-```{undefined}
+```{python}
 2
 ```
 `@sct`
-```{undefined}
+```{python}
 4
 ```
 
@@ -310,7 +310,7 @@ key: 36d434318a
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 100
 
 key: 046ca0552e
 ```
@@ -320,19 +320,19 @@ key: 046ca0552e
 
 
 `@pre_exercise_code`
-```{undefined}
+```{python}
 pre
 ```
 `@sample_code`
-```{undefined}
+```{python}
 sample
 ```
 `@solution`
-```{undefined}
+```{python}
 solution
 ```
 `@sct`
-```{undefined}
+```{python}
 sct
 ```
 
@@ -346,7 +346,7 @@ sct
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 100
 
 key: cd7fe78246
 ```
@@ -370,7 +370,7 @@ key: cd7fe78246
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 100
 
 key: 81b1a735da
 ```
@@ -380,7 +380,7 @@ key: 81b1a735da
 
 
 `@pre_exercise_code`
-```{undefined}
+```{python}
 pre1
 ```
 
@@ -397,23 +397,19 @@ pre1
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 100
 
 key: 0ad50b694f
 ```
 
 
 
-`@instructions`
-
-
-`@hint`
 
 
 
 
 `@solution`
-```{}
+```{python}
 this is a solution and it's working
 ```
 
@@ -421,3 +417,17 @@ this is a solution and it's working
 
 
 
+
+---
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+
+xp: 50
+
+key: 6882d46654
+```
+
+`@projector_key`
+2d71e993128ceca527df673393ba092b

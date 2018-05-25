@@ -10,17 +10,13 @@ description: >-
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: 100
 
 key: 8d3ef35df0
 ```
 
 
 
-`@instructions`
-
-
-`@hint`
 
 
 
@@ -38,17 +34,13 @@ key: 8d3ef35df0
 ```yaml
 type: MultipleChoiceExercise
 
-xp: 
+xp: 50
 
 key: e59a213e39
 ```
 
 
 
-`@instructions`
-
-
-`@hint`
 
 
 
@@ -66,7 +58,7 @@ key: e59a213e39
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: 
+xp: 50
 
 key: bfc123283e
 ```
@@ -74,17 +66,11 @@ key: bfc123283e
 
 
 
-`@hint`
 
 
 
 
 
-
-`@possible_answers`
-
-
-`@feedbacks`
 
 
 
@@ -96,7 +82,7 @@ key: bfc123283e
 ```yaml
 type: TabExercise
 
-xp: 
+xp: 100
 
 key: ca53e65942
 ```
@@ -120,7 +106,7 @@ key: ca53e65942
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: 35
 
 key: 36b1ce874f
 ```
@@ -150,7 +136,7 @@ key: 36b1ce874f
 ```yaml
 type: MultipleChoiceExercise
 
-xp: 
+xp: 35
 
 key: 7fce87024b
 ```
@@ -180,7 +166,7 @@ key: 7fce87024b
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: 
+xp: 30
 
 key: 8568ee236e
 ```
@@ -211,7 +197,7 @@ key: 8568ee236e
 ```yaml
 type: BulletExercise
 
-xp: 
+xp: 100
 
 key: d831ac4d83
 ```
@@ -235,7 +221,7 @@ key: d831ac4d83
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: 35
 
 key: cbf2a460cc
 ```
@@ -265,7 +251,7 @@ key: cbf2a460cc
 ```yaml
 type: MultipleChoiceExercise
 
-xp: 
+xp: 35
 
 key: 5d2b128bb9
 ```
@@ -295,7 +281,7 @@ key: 5d2b128bb9
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: 
+xp: 30
 
 key: 33499f71c8
 ```
@@ -319,3 +305,17 @@ key: 33499f71c8
 
 
 
+
+---
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+
+xp: 50
+
+key: 45a1947199
+```
+
+`@projector_key`
+eaf2d924abb5831d0cf626a166e4eb53
