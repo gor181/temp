@@ -1,6 +1,6 @@
 ---
 title: Insert title here
-key: 2d71e993128ceca527df673393ba092b
+key: 805a31b32fe9cc31695f6e9cfda3ba73
 video_link:
 
   mp3: https://s3.amazonaws.com/videos.datacamp.com/mp3/5103_inference_for_numerical_data/v1/5103_ch4_5.mp3
@@ -10,7 +10,7 @@ video_link:
 
 ```yaml
 type: TitleSlide
-key: 817614de12
+key: eb4bee1d81
 ```
 
 
@@ -28,16 +28,16 @@ title: Instructor
 ## Insert title here...
 
 ```yaml
-type: FullCodeSlide
-key: 944c31c81f
+type: FullSlide
+key: 57ed4e9f6a
 ```
 
 `@part1`
-this is the first thing you see
+section one
 
-this is the second section ok {{1}}
+timed 2 {{1}}
 
-this is a third section {{2}}
+timed 3 {{2}}
 
 
 
@@ -53,7 +53,7 @@ this is a third section {{2}}
 
 ```yaml
 type: FinalSlide
-key: 687513c8d8
+key: bb81e69573
 ```
 
 

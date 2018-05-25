@@ -39,7 +39,7 @@ you are ok
 ```yaml
 type: MultipleChoiceExercise
 
-xp: NaN
+xp: 50
 
 key: 9055892a68
 ```
@@ -58,10 +58,6 @@ asd
 sa
 das
 
-`@instructions`
-
-
-`@hint`
 
 
 
@@ -72,3 +68,17 @@ das
 
 
 
+
+---
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+
+xp: 50
+
+key: 0f449d133f
+```
+
+`@projector_key`
+805a31b32fe9cc31695f6e9cfda3ba73

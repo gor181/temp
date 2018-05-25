@@ -416,18 +416,3 @@ this is a solution and it's working
 
 
 
-
-
----
-## Insert exercise title here
-
-```yaml
-type: VideoExercise
-
-xp: 50
-
-key: 6882d46654
-```
-
-`@projector_key`
-2d71e993128ceca527df673393ba092b

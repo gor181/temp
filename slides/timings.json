@@ -31,10 +31,17 @@
       }
     },
     {
-      "timing": 0.41055633928391283,
+      "timing": 0.2247038758872666,
       "state": {
         "indexh": 1,
         "indexf": 0
+      }
+    },
+    {
+      "timing": 0.4430730592626977,
+      "state": {
+        "indexh": 1,
+        "indexf": 1
       }
     },
     {
@@ -42,6 +49,43 @@
       "state": {
         "indexh": 2,
         "indexf": -1
+      }
+    }
+  ],
+  "slides/chapter_2_805a31b32fe9cc31695f6e9cfda3ba73.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.033175202822640214,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.07393774050725037,
+      "state": {
+        "indexh": 1,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.2865810299984069,
+      "state": {
+        "indexh": 1,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.5645875500895366,
+      "state": {
+        "indexh": 1,
+        "indexf": 1
       }
     }
   ]
